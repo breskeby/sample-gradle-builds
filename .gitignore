@@ -1,0 +1,4 @@
+/build
+/buildSrc/build
+/samples/*/buildSrc/build
+.gradle
